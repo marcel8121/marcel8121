@@ -6,6 +6,6 @@
 💩 Things i hate: light themes😣 <-- Original face
 
 ## Some of my Github Stats
-![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcel-kraatz&show_icons=true)
+![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcel-kraatz&show_icons=true&theme=shades-of-purple)
 
 🧝🏼‍♂️ I use Arch btw
