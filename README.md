@@ -9,6 +9,6 @@
 ## My Github Stats
 ![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcel-kraatz&show_icons=true&theme=outrun)
 ## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcel-kraatz&langs_count=8&theme=outrun)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcel-kraatz&langs_count=5&theme=outrun)
 
 🧝🏼‍♂️ I use Arch btw
