@@ -1,8 +1,8 @@
 # Hello! 👋
 
-🔭 I'm interested in new technology and trying to learn things, i like the most. 
+🔭 I'm interested in new technology and trying to learn things, i find interesting. 
 
-👨🏼‍💻 At the moment i'm learning programming languages (Javascript ,C++ ,Python) Otherwise networking and information security in general.
+👨🏼‍💻 I just started beginning. At the moment i learn programming languages (Javascript ,C++ ,Python) Otherwise i learn networking and information security in general.
 
 💩 Things i hate: light themes😣 <-- Original face
 
