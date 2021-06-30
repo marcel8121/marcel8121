@@ -2,6 +2,8 @@
 
 🔭 I'm interested in new technology and trying to learn things, i find interesting. 
 
+👨‍🌾 It ain't much but its honest work. Everything i upload, was created by me for learning purposes.
+
 👨🏼‍💻 I'm just getting started. At the moment i learn programming languages (Javascript ,C++ ,Python) Otherwise i learn networking and information security in general.
 
 💩 Things i hate: light themes😣 <-- Original face
