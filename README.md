@@ -1,4 +1,4 @@
-# Hello! 👋
+# About Me 👋
 
 🔭 I'm interested in new technology and trying to learn things, i find interesting. 
 
