@@ -1,8 +1,8 @@
 # About Me 👋
 
-🔭 Interested in new technology and trying to learn things, i find interesting. 
+🔭 I'm highly interested in new technology. My favourite topic is information security. 
 
-👨🏼‍💻 I'm just getting started and at the moment i'm learning about networking and information security in general. Sometimes i'm playing around with programming languages.
+👨🏼‍💻 At the moment i'm into networking. Sometimes i also play around with programming languages.
 
 💩 Things i hate: light themes😣 <-- Original face
 
