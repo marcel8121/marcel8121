@@ -1,16 +1,9 @@
 # About Me 👋
 
-🔭 I'm interested in new technology and trying to learn things, i find interesting. 
-
-👨‍🌾 It ain't much but its honest work. Everything i upload, was created by me for learning purposes.
-
-👨🏼‍💻 I'm just getting started. At the moment i learn programming languages (Javascript ,C++ ,Python) Otherwise i learn networking and information security in general.
-
+🔭 Interested in new technology and trying to learn things, i find interesting. 
+👨🏼‍💻 I'm just getting started and at the moment i'm learning about networking and information security in general. Sometimes i'm playing around with programming languages.
 💩 Things i hate: light themes😣 <-- Original face
 
-## My Github Stats
-![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcel-kraatz&show_icons=true&theme=outrun)
-## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcel-kraatz&langs_count=5&theme=outrun)
+![Stats](https://metrics.lecoq.io/marcel-kraatz?template=classic&languages=1&lines=1&introduction=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FBerlin)
 
 🧝🏼‍♂️ I use Arch btw
