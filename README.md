@@ -1,7 +1,7 @@
 # whoami
-<image align=right src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png>
+<img align=right src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></img>
   
-🔭 Hey, my name is Marcel. I live in Germany and
+🔭 Hey, my name is Marcel. I live in East-Germany and
 i'm highly interested in new technology.
 My favourite topic is information security.
 
@@ -9,6 +9,6 @@ My favourite topic is information security.
 
 💩 Things i hate: light themes😣 <-- Original face
 
-![Stats](https://github.com/marcel-kraatz/marcel-kraatz/blob/master/github-metrics.svg)
-
+<img align=center src=https://github.com/marcel-kraatz/marcel-kraatz/blob/master/github-metrics.svg></img>
+  
 🧝🏼‍♂️ I use Arch btw
