@@ -1,6 +1,6 @@
-# whoami
 <img align=right src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></img>
-  
+
+# whoami
 🔭 Hey, my name is Marcel. I live in East-Germany and
 i'm highly interested in new technology.
 My favourite topic is information security.
