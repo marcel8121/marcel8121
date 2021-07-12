@@ -1,6 +1,6 @@
 # whoami
-
-🔭 Hey, my name is Marcel. <image align=right src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png>
+<image align=right src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png>
+🔭 Hey, my name is Marcel.
 I'm highly interested in new technology.
 My favourite topic is information security.
 
