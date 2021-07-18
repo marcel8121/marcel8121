@@ -11,7 +11,9 @@
 ```coffee
 🔭 Hey, my name is Marcel. I live in East-Germany and
 i'm highly interested in new technology.
+    
 My favourite topic is information security.
+Obvoiusly you have to learn both teams but my heart belongs to blue💙.
 
 👨🏼‍💻 At the moment I'm focusing on networking and sometimes i play around with programming languages.
     
@@ -27,6 +29,7 @@ My favourite topic is information security.
     <img align=center width="26px" src="https://design.firefox.com/product-identity/firefox-nightly/firefox-logo-nightly.png">
     <img align=center width="26px" src="https://img.icons8.com/color/480/linux--v1.png">
     <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
+    <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png"> 
   </kbd>  
 </div>
 <h2 align=center>
