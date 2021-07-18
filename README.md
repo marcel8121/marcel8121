@@ -9,13 +9,14 @@
 <div align=center>     
 
 ```coffee
-🔭 Hey, my name is Marcel. I live in East-Germany and
-i'm highly interested in new technology.
+🔭 Hey, my name is Marcel. 
+I live in East-Germany and i'm highly interested in new technology.
     
-My favourite topic is information security.
-Obvoiusly you have to learn both teams but my heart belongs to blue💙.
+My favourite topic is information security and 
+    my heart belongs to blue💙.
 
-👨🏼‍💻 At the moment I'm focusing on networking and sometimes i play around with programming languages.
+👨🏼‍💻 At the moment I'm focusing on networking 
+and sometimes i play around with programming languages.
     
 💩 Things i hate: light themes 😣 (Original face)
 ```     
