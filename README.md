@@ -32,7 +32,7 @@ This also represents the back of my Laptop :D
 </div>
 <div align=center>     
    
-```java
+
 🔭 Hey, my name is Marcel. 
 I live in East-Germany and i'm 
 highly interested in new technology.
@@ -49,7 +49,7 @@ with programming languages.
     
 💩 Things i hate: 
 light themes 😣 (Original face)
-``` 
+
 </div>
 <div align="center"> 
     <kbd>
