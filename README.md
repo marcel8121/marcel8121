@@ -2,8 +2,6 @@
     <h1 align=center>
         <a>
             <kbd><img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></img></kbd>
-        <br>
-            # whoami
         </a>
     </h1>
 <div align="center">
@@ -12,7 +10,7 @@
 Everything in here i use more or less often, but i worked with it a few times. So i know what it is and how to use it. 
 However i'm not a master in everything.
 This also represents the back of my Laptop :D
--->     
+-->
         <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript">
         <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="NodeJS">
         <img align=center width="26px" src="https://i.imgur.com/wSTFkRM.png" alt="DiscordJS">
@@ -23,17 +21,25 @@ This also represents the back of my Laptop :D
         <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="Windows">
     </kbd>
 </div>
+<div align=center>
+<h2 align=center>
+
+```zsh
+marcel-kraatz@github:~$ whoami
+``` 
+</h2>    
+</div>
 <div align=center>     
-<br>
-    
-```coffee
+   
+```java
 🔭 Hey, my name is Marcel. 
-I live in East-Germany and 
-i'm highly interested in new technology.
+I live in East-Germany and i'm 
+highly interested in new technology.
     
 My favourite topic is 
 information security 
-and my heart belongs to blue💙.
+and my heart belongs to blue💙
+even though my fav. color is red.
 
 👨🏼‍💻 At the moment I'm 
 focusing on networking 
@@ -58,9 +64,9 @@ light themes 😣 (Original face)
 </div>
 <h2 align=center>
     
+```zsh
+marcel-kraatz@github:~$ ./My_GitHub_Stats.py
 ```
-My GitHub Stats   
-``` 
 <kbd>
     <img align=center src=https://github.com/marcel-kraatz/marcel-kraatz/blob/master/github-metrics.svg></img>
 </kbd>    
