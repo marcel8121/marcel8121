@@ -4,6 +4,15 @@
             <kbd><img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></img></kbd>
         </a>
     </h1>
+<div align=center>
+<h2 align=center>
+
+```zsh
+┌──marcel-kraatz@github:~
+└─# whoami               
+``` 
+</h2>    
+</div>
 <div align="center">
 <kbd>    
 <!-- 
@@ -21,18 +30,8 @@ This also represents the back of my Laptop :D
         <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="Windows">
     </kbd>
 </div>
-<div align=center>
-<h2 align=center>
-
-```zsh
-┌──marcel-kraatz@github:~
-└─# whoami               
-``` 
-</h2>    
-</div>
 <div align=center>     
-   
-
+<br>
 🔭 Hey, my name is Marcel. 
 I live in East-Germany and i'm 
 highly interested in new technology.
@@ -49,7 +48,7 @@ with programming languages.
     
 💩 Things i hate: 
 light themes 😣 (Original face)
-
+<br>
 </div>
 <div align="center"> 
     <kbd>
