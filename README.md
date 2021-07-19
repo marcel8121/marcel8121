@@ -22,7 +22,7 @@ This also represents the back of my Laptop :D
     </kbd>
 </div>
 <div align=center>
-<h2 align=center>
+<h2 align=left>
 
 ```zsh
 ┌──marcel-kraatz@github:~
@@ -63,7 +63,7 @@ light themes 😣 (Original face)
         <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/AWS_icon-icons.com_67084.png" alt="AWS">
     </kbd>  
 </div>
-<h2 align=center>
+<h2 align=left>
     
 ```zsh
 ┌──marcel-kraatz@github:~
