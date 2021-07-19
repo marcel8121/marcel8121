@@ -25,7 +25,8 @@ This also represents the back of my Laptop :D
 <h2 align=center>
 
 ```zsh
-marcel-kraatz@github:~$ whoami
+┌──marcel-kraatz@github:~
+└─# whoami               
 ``` 
 </h2>    
 </div>
@@ -65,7 +66,8 @@ light themes 😣 (Original face)
 <h2 align=center>
     
 ```zsh
-marcel-kraatz@github:~$ ./My_GitHub_Stats.py
+┌──marcel-kraatz@github:~
+└─# ./My_GitHub_Stats.py 
 ```
 <kbd>
     <img align=center src=https://github.com/marcel-kraatz/marcel-kraatz/blob/master/github-metrics.svg></img>
