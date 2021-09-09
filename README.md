@@ -34,7 +34,7 @@ This also represents the back of my Laptop :D
 <div align=center>     
 <br>
 🔭 Hey, my name is Marcel. 
-I live in East-Germany and i'm 
+I live in Germany and i'm 
 highly interested in new technology.
     
 My favourite topic is 
