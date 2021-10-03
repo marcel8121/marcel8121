@@ -1,23 +1,17 @@
-<body align=center>
-    <h1 align=center>
-        <a>
-            <kbd><img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></img></kbd>
-        </a>
-    </h1>
-<div align=center>
+<div align=center><kbd><img src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></kbd></div>
 <h2 align=center>
-
+    
 ```zsh
 ┌──marcel-kraatz@github:~
 └─# whoami               
 ``` 
-</h2>    
-</div>
+</h2>
+<!-- horizontal line -->
 <div align="center">
-<kbd>    
+    <kbd>    
 <!-- 
-Everything in here i use more or less often, but i worked with it a few times. So i know what it is and how to use it. 
-However i'm not a master in everything.
+Everything in here i use more or less often, but i worked with it multiple times. So i know what it is and how to use it. 
+However, i'm not a master in everything.
 This also represents the back of my Laptop :D
 -->
         <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" title="Javascript">
@@ -31,6 +25,7 @@ This also represents the back of my Laptop :D
         <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" title="Windows">
     </kbd>
 </div>
+
 <div align=center>     
 <br>
 🔭 Hey, my name is Marcel. 
@@ -64,6 +59,7 @@ light themes 😣 (Original face)
         <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/AWS_icon-icons.com_67084.png" title="AWS">
     </kbd>  
 </div>
+
 <h2 align=center>
     
 ```zsh
@@ -74,8 +70,8 @@ light themes 😣 (Original face)
     <img align=center src=https://github.com/marcel-kraatz/marcel-kraatz/blob/master/github-metrics.svg></img>
 </kbd>    
 </h2>
+<!-- horizontal line -->
 <p align=center>🧝🏼‍♂️ I use Arch btw</p> <!-- Just for the memes but i really use it daily -->
-</body>
 
 <table align="center">
     <tr>
