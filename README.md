@@ -39,8 +39,7 @@ even though my fav. color is red.
 
 👨🏼‍💻 At the moment I'm 
 focusing on networking 
-and sometimes i play around 
-with programming languages.
+and learn the fundamentials of everything i find interesting like git, programming languages and cybersec related stuff..
     
 💩 Things i hate: 
 light themes 😣 (Original face)
