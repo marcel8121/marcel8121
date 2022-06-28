@@ -61,7 +61,7 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            github-snake.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-dark
           # ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # push the content of <build_dir> to a branch
