@@ -1,85 +1,81 @@
-<div align=center><kbd><img src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images.png></kbd></div>
-<h2 align=center>
+<div align="center">
+  <img src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/red-panda.png alt="Waving Red Panda" /> 
+  <h1>Hey, I'm Marcel</h1>
+  <h4>just some guy who enjoys coding and learning new stuff</h4>
+  <p>
+    <img src="https://badges.pufler.dev/years/marcel-kraatz/?logo=redhat&label=Years%20On%20Github&color=purple" alt="profile age badge" />
+    <img src="https://badges.pufler.dev/repos/marcel-kraatz/?logo=github&label=Public%20Repos&color=251ee7" alt="public repos badge" />
+  </p>
+</div>
+<div align="center">
+  <a href="https://github.com/marcel-kraatz">
+  <img src="https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/output/github-snake.svg" alt="Contributions calendar snake" /></a>
+</div>
+
+<!-- Whoami -->
+<details>
+  <summary>👨‍💼 about</summary>
+<div align=center>
+<h2>
     
 ```zsh
-┌──marcel-kraatz@github:~
-└─# whoami               
+┌──marcel-kraatz@github:~    
+└─# whoami && cat about-me.md
 ``` 
 </h2>
-<!-- horizontal line -->
-<div align="center">
-    <kbd>    
-<!-- 
-Everything in here i use more or less often, but i worked with it multiple times. So i know what it is and how to use it. 
-However, i'm not a master in everything.
-This also represents the back of my Laptop :D
--->
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" title="Javascript">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" title="NodeJS">
-        <img align=center width="26px" src="https://i.imgur.com/wSTFkRM.png" title="DiscordJS">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" title="Python">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VSCode">
-        <img align=center width="26px" src="https://design.firefox.com/product-identity/firefox-nightly/firefox-logo-nightly.png" title="Mozilla Firefox Nightly">   
-        <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" title="ParrotOS">
-        <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" title="I use Arch BTW">
-        <img align=center width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" title="Windows">
-    </kbd>
-</div>
-
-<div align=center>     
+👋 Hey, i'm Marcel and i'm highly interested in new technology.
 <br>
-🔭 Hey, my name is Marcel. 
-I live in Germany and i'm 
-highly interested in new technology.
-    
-My favourite topic is 
-information security 
-and my heart belongs to blue💙
-even though my fav. color is red.
-
-👨🏼‍💻 At the moment I'm 
-focusing on networking 
-and learn the fundamentials of everything i find interesting like git, programming languages and cybersec related stuff..
-    
+🔭 I lost interest in just gaming all day and wanted to know how everything works.
+So i decided to use my freetime to learn coding and all about new tech in general.
+On the way i fell into a rabbit hole and found myself daily driving linux, hoarding data and selfhosting a bunch of stuff in case the internet disappeared tomorrow.
+<br>
+👨‍💻 At the moment I'm
+focusing as much as i can on cybersec related stuff.
+<br>
 💩 Things i hate: 
 light themes 😣 (Original face)
-<br>
 </div>
-<div align="center"> 
-    <kbd>
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/ubiquiti_icon_130804.png" title="Ubiquiti"/>
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" title="RaspberryPi">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" title="Docker">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redhat_original_logo_icon_146372.png" title="RedHat">
-        <img align=center width="26px" src="https://raw.githubusercontent.com/posquit0/zshrc/master/icon.png?v=3&s=200" title="ZSH">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png" title="PowerShell">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_arduino_icon_130743.png" title="Arduino">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_azure_icon_130731.png" title="Azure">
-        <img align=center width="26px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/AWS_icon-icons.com_67084.png" title="AWS">
-    </kbd>  
-</div>
+</details>
 
+<!-- Profile Stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <div>
 <h2 align=center>
-    
+
 ```zsh
 ┌──marcel-kraatz@github:~
 └─# ./My_GitHub_Stats.py 
 ```
-<kbd>
-    <img align=center src=https://github.com/marcel-kraatz/marcel-kraatz/blob/master/github-metrics.svg></img>
-</kbd>    
+
 </h2>
-<!-- horizontal line -->
+     <br />
+       <p align="center">
+         <a href="https://github.com/marcel-kraatz/">
+         <img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/github-metrics.svg /></a>
+       </p>
+     <br />
+  </div>    
+</details>
+
+<!-- Projects -->
+<details>
+  <summary>💻 Projects</summary>
+  <div align=center>
+    <h2>💻 Projects</h2>
+    <div>
+        <img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/top.svg alt="skill-logos" />
+    </div>
+    <div>
+        <p><a href="https://addons.thunderbird.net/de/thunderbird/addon/alpenglow">Alpenglow Theme for Thunderbird</a></p>
+        <p><a href="https://github.com/marcel-kraatz">Website (Coming Soon)</a></p>
+    </div>
+    <div>
+        <img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/bottom.svg alt="skill-logos" />
+    </div>
+</details>
+
 <p align=center>🧝🏼‍♂️ I use Arch btw</p> <!-- Just for the memes but i really use it daily -->
-
-<table align="center">
-    <tr>
-        <td>
-            <img src=https://c.tenor.com/SUv_dmC388EAAAAj/oops-uh-oh.gif> random bug 
-        </td>
-    </tr>
-</table>
-
 <div align="right">
     
 **©[marcel-kraatz](https://github.com/marcel-kraatz)**  
