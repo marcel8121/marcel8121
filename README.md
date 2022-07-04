@@ -2,10 +2,6 @@
   <img src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/red-panda.png alt="Waving Red Panda" /> 
   <h1>Hey, I'm Marcel</h1>
   <h4>just some guy who enjoys coding and learning new stuff</h4>
-  <p>
-    <img src="https://badges.pufler.dev/years/marcel-kraatz/?logo=redhat&label=Years%20On%20Github&color=purple" alt="profile age badge" />
-    <img src="https://badges.pufler.dev/repos/marcel-kraatz/?logo=github&label=Public%20Repos&color=251ee7" alt="public repos badge" />
-  </p>
 </div>
 <div align="center">
   <a href="https://github.com/marcel-kraatz">
