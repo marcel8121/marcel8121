@@ -1,11 +1,11 @@
 <div align="center">
-  <img src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/red-panda.png alt="Waving Red Panda" /> 
+  <img src=https://raw.githubusercontent.com/marcel8121/marcel8121/master/images/red-panda.png alt="Waving Red Panda" /> 
   <h1>Hey, I'm Marcel</h1>
   <h4>just some guy who enjoys coding and learning new stuff</h4>
 </div>
 <div align="center">
-  <a href="https://github.com/marcel-kraatz">
-  <img src="https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/output/github-snake.svg" alt="Contributions calendar snake" /></a>
+  <a href="https://github.com/marcel8121">
+  <img src="https://raw.githubusercontent.com/marcel8121/marcel8121/output/github-snake.svg" alt="Contributions calendar snake" /></a>
 </div>
 
 <!-- Whoami -->
@@ -15,8 +15,8 @@
 <h2>
     
 ```zsh
-┌──marcel-kraatz@github:~    
-└─# whoami && cat about-me.md
+┌──marcel8121@github:~     
+  └─# whoami && cat about-me.md
 ``` 
 </h2>
 👋 Hey, i'm Marcel and i'm highly interested in new technology.
@@ -40,15 +40,15 @@ light themes 😣 (Original face)
 <h2 align=center>
 
 ```zsh
-┌──marcel-kraatz@github:~
-└─# ./My_GitHub_Stats.py 
+┌──marcel8121@github:~  
+ └─# ./My_GitHub_Stats.py 
 ```
 
 </h2>
      <br />
        <p align="center">
-         <a href="https://github.com/marcel-kraatz/">
-         <img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/github-metrics.svg /></a>
+         <a href="https://github.com/marcel8121/">
+         <img align=center src=https://raw.githubusercontent.com/marcel8121/marcel8121/master/github-metrics.svg /></a>
        </p>
      <br />
   </div>    
@@ -60,19 +60,19 @@ light themes 😣 (Original face)
   <div align=center>
     <h2>💻 Projects</h2>
     <div>
-        <img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/top.svg alt="skill-logos" />
+        <img align=center src=https://raw.githubusercontent.com/marcel8121/marcel8121/master/images/top.svg alt="skill-logos" />
     </div>
     <div>
         <p><a href="https://addons.thunderbird.net/de/thunderbird/addon/alpenglow">Alpenglow Theme for Thunderbird</a></p>
-        <p><a href="https://github.com/marcel-kraatz">Website (Coming Soon)</a></p>
+        <p><a href="https://github.com/marcel8121">Website (Coming Soon)</a></p>
     </div>
     <div>
-        <img align=center src=https://raw.githubusercontent.com/marcel-kraatz/marcel-kraatz/master/images/bottom.svg alt="skill-logos" />
+        <img align=center src=https://raw.githubusercontent.com/marcel8121/marcel8121/master/images/bottom.svg alt="skill-logos" />
     </div>
 </details>
 
 <p align=center>🧝🏼‍♂️ I use Arch btw</p> <!-- Just for the memes but i really use it daily -->
 <div align="right">
     
-**©[marcel-kraatz](https://github.com/marcel-kraatz)**  
+**©[marcel8121](https://github.com/marcel8121)**  
 </div>
